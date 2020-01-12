@@ -3,3 +3,16 @@
     overflow: auto;
     flex: auto;
 }
+
+.css-y1c0xs::-webkit-scrollbar {
+    width: 5px;
+}
+
+.css-y1c0xs::-webkit-scrollbar-track {
+    background: #ababab;
+}
+
+.css-y1c0xs::-webkit-scrollbar-thumb {
+    background: #2E4372;
+    border-radius: 5px;
+}
